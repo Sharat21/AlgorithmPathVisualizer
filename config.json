@@ -1,0 +1,10 @@
+{
+  "grid_size": 40,
+  "cell_size": 16,
+  "animation_speed": 10,
+  "sound_enabled": true,
+  "random_density": 0.3,
+  "show_exploration": true,
+  "show_values": false
+}
+
